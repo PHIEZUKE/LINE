@@ -1,4 +1,5 @@
 # LINEAtAuto
+# SEMUA AKAN MATI PADA WAKTUNYA
 # Overview
 1. Create LINE@ account automatically.
 2. Do some line thrift request.
